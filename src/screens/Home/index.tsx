@@ -12,6 +12,13 @@ export function Home() {
         <Text style={styles.eventDate}>
          Quinta, 30 de setembro de 2022
         </Text>
+
+        <Text style={styles.eventName}>
+            Nome do evento
+        </Text>
+        <Text style={styles.eventDate}>
+         Quinta, 30 de setembro de 2022
+        </Text>
   </View>
   );
 }
